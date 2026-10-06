@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.syuzen07bloomcloud.teslaspeed",
+      "sha256_cert_fingerprints": [
+        "0D:BE:C1:B9:DB:8F:10:EF:12:CA:75:67:A6:15:A5:63:81:C9:C8:46:29:A6:D1:91:6A:2C:29:1E:88:72:CC:B0"
+      ]
+    }
+  }
+]
